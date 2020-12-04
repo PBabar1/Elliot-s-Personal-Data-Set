@@ -7,6 +7,6 @@ I got my data from the ATP Tour Website (https://www.atptour.com/en/stats). Unde
 
 ![Professional Men's Tennis Serving Statistics](https://raw.githubusercontent.com/PBabar1/Elliot-s-Personal-Data-Set/master/ProTennis%20Visualization.png?token=ARFIEI2E6X5U7HMYAU35ABS7US2GS)
 
-This figure shows the Serving Statistics for the top 83 servers in Professional Men's tennis over the last year (Ranked from 1 to 83 from left to right). 
+This figure shows the Serving Statistics for the top 83 servers in Professional Men's tennis over the last year (Ranked from 1 to 83 from left to right). I decided after looking at levels of correlation, looking at these players' ranks relative to their percentage of points they win, when they start a point with their first serve. 
 
 ## Analysis
