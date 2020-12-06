@@ -7,7 +7,7 @@ I got my data from the ATP Tour Website (https://www.atptour.com/en/stats). Unde
 
 ![Professional Men's Tennis Serving Statistics](https://raw.githubusercontent.com/PBabar1/Elliot-s-Personal-Data-Set/master/ProTennis%20Visualization.png?token=ARFIEI2E6X5U7HMYAU35ABS7US2GS)
 
-This figure shows the Serving Statistics for the top 83 servers in Professional Men's tennis over the last year (Ranked from 1 to 83 from left to right). I decided after looking at levels of correlation, looking at these players' ranks relative to their percentage of points they win, when they start a point with their first serve. The big noticeable outliers, like Milos Raonic (Serve Rank #2), have a percentage of first serve points won, but his first serve accuracy is almost 10% lower than John Isner's (#1). Generally the outliers we see might be really good on this particular graph, but their overall serving rank suffers from their other aspects of the serve that are lacking. 
+This figure shows the Serving Statistics for the top 83 servers in Professional Men's tennis over the last year (Ranked from 1 to 83 from left to right). I decided after looking at levels of correlation, looking at these players' ranks relative to their percentage of points they win, when they start a point with their first serve. The big noticeable outliers, like Milos Raonic (Serve Rank #2), have a percentage of first serve points won, but his first serve accuracy is almost 10% lower than John Isner's (#1). Generally the outliers we see might be really good on this particular graph, but their overall serving rank suffers from other aspects.  
 
 ## Analysis
 In conclusion, I'm the best Tennis Player of all time.
